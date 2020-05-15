@@ -1,3 +1,43 @@
 .logo{
 	max-width: 100%;
 }
+
+
+.portrait{
+	max-width: 180px;
+}
+
+.active
+{
+	background: #dde5eb;
+}
+
+.foo { color: #111; 
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 50px; 
+	font-weight: 300; 
+	line-height: 82px; 
+	margin: 0 0 72px; 
+	text-align: center; 
+}
+
+.foo2{
+	font-family: fantasy;
+}
+
+.navbar_font{
+	font-size: 20px;
+/*	font-weight: bold;*/
+	font-family: fantasy;
+}
+
+
+.t_box{
+	background: #dde5eb; 
+	height: 370px
+}
+
+.b_box{
+	background: #dde5eb; 
+	height: 50px
+}
